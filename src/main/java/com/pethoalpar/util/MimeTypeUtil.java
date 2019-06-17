@@ -1,7 +1,7 @@
 package com.pethoalpar.util;
 
 /**
- * @author pethoalpar
+ * @author alpar.petho
  *
  */
 public class MimeTypeUtil {

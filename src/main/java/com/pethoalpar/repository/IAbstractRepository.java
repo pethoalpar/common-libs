@@ -11,6 +11,6 @@ import com.pethoalpar.entity.AbstractEntity;
  * @param <T>
  */
 @NoRepositoryBean
-public interface IAbstractRepository<T extends AbstractEntity> extends JpaRepository<T, Long> {
+public interface IAbstractRepository<T extends AbstractEntity> extends JpaRepository<T, Integer> {
 
 }
